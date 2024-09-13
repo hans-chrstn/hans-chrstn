@@ -14,8 +14,8 @@ You can reach me on Discord `@hans_chrstn`, [x](https://x.com/hans_chrstn), or b
 <a href="https://fb.com/hanzchristian12" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanzchristian.12" height="30" width="40" />
 </a>
-<a href="https://instagram.com/hans_chrstn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hans_chrstn" height="30" width="40" />
+<a href="https://instagram.com/hans_chrstnn" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hans_chrstnn" height="30" width="40" />
 </a>
 <a href="https://discord.gg/hans_chrstn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hans_chrstn" height="30" width="40" />
