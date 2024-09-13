@@ -5,7 +5,7 @@ I am studying Computer Science at Georgia State University.
 
 I’m currently learning C, C++, JavaScript/TypeScript, and Nix.
 
-You can reach me on Discord `@hans_chrstn`, [x](https://x.com/hans_chrstn), or [email](hansestallo@gmail.com).
+You can reach me on Discord `@hans_chrstn`, [x](https://x.com/hans_chrstn), or [email](mailto:hansestallo@gmail.com).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-chrstn&layout=compact&theme=github_dark&langs_count=8" >
