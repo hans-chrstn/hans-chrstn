@@ -24,7 +24,7 @@ You can reach me on Discord `@hans_chrstn`, [x](https://x.com/hans_chrstn), or b
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-chrstn&layout=compact&theme=github_dark&langs_count=8" >
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-chrstn&layout=compact&theme=github_dark&langs_count=12" >
 </a>
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=hans-chrstn&theme=github_dark&count_private=true&show_icons=true" />
