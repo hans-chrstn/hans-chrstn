@@ -3,7 +3,7 @@ I'm Hans, I study Linux Systems and Programming as a hobby.
 
 I am studying Computer Science at Georgia State University.
 
-I’m currently learning C, C++, JavaScript/TypeScript, and Nix.
+I’m currently learning Rust, C++, C#, and Nix.
 
 You can reach me on Discord `@hans_chrstn`, [x](https://x.com/hans_chrstn), or by [email](mailto:hansestallo@gmail.com).
 
