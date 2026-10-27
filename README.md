@@ -24,16 +24,13 @@ You can reach me on Discord `@hans_chrstn`, [x](https://x.com/hans_chrstn), or b
 
 <p>
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=hans-chrstn&show_icons=true&theme=github_dark&count_private=true" >
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=hans-chrstn&show_icons=true&theme=github_dark&count_private=true" >
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hans-chrstn&layout=compact&theme=github_dark&langs_count=12" >
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hans-chrstn&layout=compact&theme=github_dark&langs_count=12" >
   </a>
 </div>
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=hans-chrstn&theme=github_dark&count_private=true&show_icons=true" />
-</a>-->
 </p>
 
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
